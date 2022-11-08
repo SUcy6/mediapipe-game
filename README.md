@@ -1,4 +1,4 @@
 # handpose-game
 mediapipe hand detection
 
-frame rate too low, try use other laptop
+(not the problem of CPU) frame rate too low, try use other laptop
