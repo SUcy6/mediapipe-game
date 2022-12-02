@@ -1,4 +1,4 @@
-# pose-game
+# pose-detection AI Game
 mediapipe hand detection
 
 
