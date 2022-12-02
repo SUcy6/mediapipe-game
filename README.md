@@ -1,4 +1,4 @@
 # pose-detection AI Game
-mediapipe hand detection
+A series of game that use mediapipe for human body detection.
 
 
