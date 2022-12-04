@@ -30,7 +30,9 @@ To clean the canvas, put all of your 5 fingers up 🖐️
 
 **Video demo:**
 
-[https://youtu.be/nb24payxQLY](https://youtu.be/nb24payxQLY)
+[![https://youtu.be/nb24payxQLY](https://img.youtube.com/vi/nb24payxQLY/0.jpg)](https://www.youtube.com/watch?v=nb24payxQLY)
+
+View on YouTube: [https://youtu.be/nb24payxQLY](https://youtu.be/nb24payxQLY)
 
 ## Part2 - [Motions to animation](https://github.com/SUcy6/mediapipe-game/tree/main/motion-animation)
 
@@ -49,5 +51,7 @@ Forth, click the play ▶️ button in Unity. The animation is produced.
 **Reminder:** due to the processing power limits, the video frame may delay and cause the animation not fit in the music. Choose a better computer may solve this issue.
 
 **Video demo:**
+
+[![https://youtu.be/iA3sBU9Q7FI](https://img.youtube.com/vi/iA3sBU9Q7FI/0.jpg)](https://www.youtube.com/watch?v=iA3sBU9Q7FI)
 
 [https://youtu.be/iA3sBU9Q7FI](https://youtu.be/iA3sBU9Q7FI)
