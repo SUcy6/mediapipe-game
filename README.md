@@ -69,3 +69,13 @@ Run the "Game.py" file to play. Close the game window to quit this game.
 [![https://youtu.be/3HWbj4TLcHo](https://img.youtube.com/vi/3HWbj4TLcHo/0.jpg)](https://www.youtube.com/watch?v=3HWbj4TLcHo)
 
 View on YouTube: [https://youtu.be/3HWbj4TLcHo](https://youtu.be/3HWbj4TLcHo)
+
+---
+
+### Reference Tutorials:
+
+https://github.com/murtazahassan
+
+https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A
+
+https://www.youtube.com/@NicholasRenotte
